@@ -10,7 +10,7 @@ redirect_from:
 
 # CV
 
-[CV available in PDF format.]()
+[CV available in PDF format.](https://hemingkx.github.io/files/CV_heming.pdf)
 
 # About
 

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Heming Xia"
-  avatar           : "/files/heming.jpg"
+  avatar           : "https://hemingkx.github.io/files/heming.jpg"
   bio              : "NLPer at Peking University"
   location         : "Beijing, China"
   employer         :
