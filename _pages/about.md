@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About
 
 Hi~ I am **Heming Xia**, a CS Master student at Peking University. I received my bachelor's degree from the [School of Physics](http://english.phy.pku.edu.cn/info/1017/5151.htm), Peking University. I interned at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), where I was fortunate to work with Dr. Tao Ge. Please check my [CV](https://hemingkx.github.io/files/CV_heming.pdf) for further information.
 
