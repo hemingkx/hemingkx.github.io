@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+(* indicates equal contribution)
 
-{% include base_path %}
+## 2022
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues.
+  Qingxiu Dong\*, Ziwei Qin\*, **Heming Xia**, Tian Feng, Shoujie Tong, Haoran Meng, Lin Xu, Zhongyu Wei, Weidong Zhan, Baobao Chang, Sujian Li, Tianyu Liu and Zhifang Sui.
+  *in Proc. of **ACL 2022***

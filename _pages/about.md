@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-# CV
-
-[CV available in PDF format.](https://hemingkx.github.io/files/CV_heming.pdf)
-
 # About
 
-Hi~ I am Heming Xia
+Hi~ I am **Heming Xia**, a CS Master student at Peking University. I received my bachelor's degree from the [School of Physics](http://english.phy.pku.edu.cn/info/1017/5151.htm), Peking University. I interned at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), where I was fortunate to work with Dr. Tao Ge. Please check my [CV](https://hemingkx.github.io/files/CV_heming.pdf) for further information.
 
 # Research
 
-My research
+My research mainly focus on Natural language processing, machine learning, and multi-modal learning, especially: **1) efficient and effective NLP and 2) cross vision and language understanding.**
 
 # News
 
-[2022.7]. 
+[2022.6] One paper submitted to **EMNLP 2022**.
 
+[2022.5] Got one paper accepted by **ACL 2022**.
 
+[2021.10] Start my research internship at at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.
+
+[2020.9] Start my Master study at the [MOE Key Laboratory of Computational Linguistics](https://icl.pku.edu.cn/) in Peking University, advised by Prof. Zhifang Sui.
 
