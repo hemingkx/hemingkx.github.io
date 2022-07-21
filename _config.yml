@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Heming Xia"
 description              : &description "Master Student at Peking University"
 url                      : https://hemingkx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "hemingkx.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Heming Xia"
-  avatar           : "profile.png"
+  avatar           : "/files/heming.jpg"
   bio              : "NLPer at Peking University"
   location         : "Beijing, China"
   employer         :
