@@ -31,4 +31,5 @@ Reviewer: NeurIPS 2022
 ## Honors
 
 Merit Student, Peking University (2021)
+
 Scholarship of National Astronomical Observatory, Chinese Academy of Sciences (2019)
