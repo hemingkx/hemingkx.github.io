@@ -24,3 +24,11 @@ My research mainly focus on Natural language processing, machine learning, and m
 
 [2020.9] Start my Master study at the [MOE Key Laboratory of Computational Linguistics](https://icl.pku.edu.cn/) in Peking University, advised by Prof. Zhifang Sui.
 
+## Services
+
+Reviewer: NeurIPS 2022
+
+## Honors
+
+Merit Student, Peking University (2021)
+Scholarship of National Astronomical Observatory, Chinese Academy of Sciences (2019)
