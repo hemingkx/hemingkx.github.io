@@ -12,7 +12,7 @@ Hi~ I am **Heming Xia**, a CS Master student at Peking University. I received my
 
 # Research
 
-My research mainly focus on Natural language processing, machine learning, and multi-modal learning, especially: **1) efficient and effective NLP and 2) cross vision and language understanding.**
+My research mainly focuses on natural language processing, machine learning, and multi-modal learning, especially: **1) efficient and effective NLP and 2) cross vision and language understanding.**
 
 # News
 
