@@ -33,3 +33,7 @@ Reviewer: NeurIPS 2022
 Merit Student, Peking University (2021)
 
 Scholarship of National Astronomical Observatory, Chinese Academy of Sciences (2019)
+
+Second Prize of China Undergraduate Physics Tournament of Peking University (2017)
+
+Outstanding Volunteer Award of Volunteer and Cultural Program in Thailand, The Green Lion (2017)
