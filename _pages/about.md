@@ -20,9 +20,9 @@ My research mainly focuses on natural language processing, machine learning, and
 
 [2022.5] Got one paper accepted by **ACL 2022**.
 
-[2021.10] Start my research internship at at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.
+[2021.10] Start my research internship at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.
 
-[2020.9] Start my Master study at the [MOE Key Laboratory of Computational Linguistics](https://icl.pku.edu.cn/) in Peking University, advised by Prof. Zhifang Sui.
+[2020.9] Start my Master study at the [MOE Key Laboratory of Computational Linguistics](https://icl.pku.edu.cn/), Peking University, advised by Prof. Zhifang Sui.
 
 # Services
 
