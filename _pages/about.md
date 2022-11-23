@@ -16,8 +16,6 @@ My research mainly focuses on natural language processing, machine learning, and
 
 # News
 
-[2022.6] One paper submitted to **EMNLP 2022**.
-
 [2022.5] Got one paper accepted by **ACL 2022**.
 
 [2021.10] Start my research internship at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.
@@ -26,9 +24,11 @@ My research mainly focuses on natural language processing, machine learning, and
 
 # Services
 
-Reviewer: NeurIPS 2022
+Reviewer: NeurIPS 2022, AACL 2022
 
 # Honors
+
+Model Student of Social Work, Peking University (2022)
 
 Merit Student, Peking University (2021)
 
