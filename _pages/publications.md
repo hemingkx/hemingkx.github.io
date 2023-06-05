@@ -7,7 +7,7 @@ author_profile: true
 
 (* indicates equal contribution)
 
-## 2022
+## 2023
 
 * [**ImageNetVC: Zero-Shot Visual Commonsense Evaluation on 1000 ImageNet Categories**](https://arxiv.org/abs/2305.15028)    
   **Heming Xia**\*, Qingxiu Dong\*, Lei Li, Jingjing Xu, Ziwei Qin, Zhifang Sui  
