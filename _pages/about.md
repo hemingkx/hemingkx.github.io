@@ -16,6 +16,8 @@ My research mainly focuses on natural language processing, machine learning, and
 
 # News
 
+[2023.10] Got three papers accepted by **EMNLP 2023**.
+
 [2023.5] Got one short paper accepted by **ACL 2023**.
 
 [2022.5] Got one paper accepted by **ACL 2022**.

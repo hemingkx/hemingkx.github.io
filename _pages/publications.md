@@ -11,10 +11,10 @@ author_profile: true
 
 * [**ImageNetVC: Zero-Shot Visual Commonsense Evaluation on 1000 ImageNet Categories**](https://arxiv.org/abs/2305.15028)    
   **Heming Xia**\*, Qingxiu Dong\*, Lei Li, Jingjing Xu, Ziwei Qin, Zhifang Sui  
-  ***Arxiv***  
+  *in Proc. of **EMNLP 2023 (Findings)***  
 * [**Bi-Drop: Generalizable Fine-tuning for Pre-trained Language Models via Adaptive Subnetwork Optimization**](https://arxiv.org/abs/2305.14760)    
   Shoujie Tong\*, **Heming Xia**\*, Damai Dai, Tianyu Liu, Binghuai Lin, Yunbo Cao, and Zhifang Sui  
-  ***Arxiv***  
+  *in Proc. of **EMNLP 2023 (Findings)***  
 * [**Enhancing Continual Relation Extraction via Classifier Decomposition**](https://arxiv.org/abs/2305.04636)    
   **Heming Xia**, Peiyi Wang, Tianyu Liu, Binghuai Lin, Yunbo Cao, and Zhifang Sui  
   *in Proc. of **ACL 2023 (Findings)***  
@@ -22,7 +22,7 @@ author_profile: true
 ## 2022
 * [**Speculative Decoding: Lossless Speedup of Autoregressive Translation**](https://arxiv.org/abs/2203.16487)    
   **Heming Xia**\*, Tao Ge\*, Furu wei, and Zhifang Sui  
-  ***Arxiv***  
+  *in Proc. of **EMNLP 2023 (Findings)***  
 * [**Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues**](https://aclanthology.org/2022.acl-long.66/)    
   Qingxiu Dong\*, Ziwei Qin\*, **Heming Xia**, Tian Feng, Shoujie Tong, Haoran Meng, Lin Xu, Zhongyu Wei, Weidong Zhan, Baobao Chang, Sujian Li, Tianyu Liu and Zhifang Sui  
   *in Proc. of **ACL 2022***  
