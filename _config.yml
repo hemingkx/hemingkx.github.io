@@ -10,7 +10,7 @@ locale                   : "zh-Chinese"
 title                    : "Heming Xia"
 title_separator          : "-"
 name                     : &name "Heming Xia"
-description              : &description "Master Student at Peking University"
+description              : &description "Ph.D. Student at PolyU"
 url                      : https://hemingkx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hemingkx.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Heming Xia"
   avatar           : "profile.jpg"
-  bio              : "NLPer at Peking University"
-  location         : "Beijing, China"
+  bio              : "PhD student@PolyU. Previously MEng & BSc Student@PKU."
+  location         : "Hong Kong, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en"
