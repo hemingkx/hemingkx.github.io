@@ -13,23 +13,15 @@ redirect_from:
 I am **Heming Xia**, a Ph.D. student at The Hong Kong Polytechnic University, supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). I obtained my master degree from the [MOE Key Laboratory of Computational Linguistics](https://icl.pku.edu.cn/), Peking University, advised by Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1226/2014.htm). Before that, I received my bachelor degree from the [School of Physics](http://english.phy.pku.edu.cn/info/1017/5151.htm), Peking University in 2020. I have also spent time at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) as a Research Intern, where I was fortunate to work with Dr. [Tao Ge](https://scholar.google.com/citations?user=LYbs7Q8AAAAJ&hl=en). Please check my [CV](https://hemingkx.github.io/files/CV_heming.pdf) for further information.
 
 # Research
-
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
-
-[2024.01] Started my Ph.D. study at the [Natural Language Processing Group @PolyU](https://www4.comp.polyu.edu.hk/~cswjli/Group.html), The Hong Kong Polytechnic University, supervised by Prof. Wenjie Li.
-
-[2023.10] Got three papers accepted by **EMNLP 2023**.
-
-[2023.5] Got one short paper accepted by **ACL 2023**.
-
-[2022.5] Got one paper accepted by **ACL 2022**.
-
-[2021.10] Started my research internship at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.
-
+[2024.01] Started my Ph.D. study at the [Natural Language Processing Group @PolyU](https://www4.comp.polyu.edu.hk/~cswjli/Group.html), The Hong Kong Polytechnic University, supervised by Prof. Wenjie Li.  
+[2023.10] Got three papers accepted by **EMNLP 2023**.  
+[2023.5] Got one short paper accepted by **ACL 2023**.  
+[2022.5] Got one paper accepted by **ACL 2022**.  
+[2021.10] Started my research internship at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.  
 [2020.9] Started my Master study at the [MOE Key Laboratory of Computational Linguistics](https://icl.pku.edu.cn/), Peking University, advised by Prof. Zhifang Sui.
-
 
 # Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
