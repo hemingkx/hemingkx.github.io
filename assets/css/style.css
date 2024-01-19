@@ -1,0 +1,9 @@
+.member-card
+{
+  margin: 5pt 20pt;
+  padding: 0pt;
+  display: inline-block;
+  text-align: center;
+  width: 180px;
+  vertical-align: top;
+}
