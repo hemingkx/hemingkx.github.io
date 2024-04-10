@@ -58,7 +58,7 @@ ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.66/) [[code]](https://
 Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040) [[code]](https://github.com/hemingkx/improved-gwcnn)
 
 # Service
-Reviewer: NeurIPS 2022, AACL 2022, AACL 2023, ACL 2024
+Reviewer: NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr-2024)
 
 # Awards
 Model Student of Social Work, Peking University (2022)  
