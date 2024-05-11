@@ -16,7 +16,7 @@ I am **Heming Xia**, a Ph.D. student at The Hong Kong Polytechnic University, su
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
-[2024.01] 🔥Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding, check it out!  
+[2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding, check it out!  
 [2024.01] Released our new survey 📖 on Speculative Decoding.  
 [2024.01] Started my Ph.D. study at the [Natural Language Processing Group @PolyU](https://www4.comp.polyu.edu.hk/~cswjli/Group.html), The Hong Kong Polytechnic University, supervised by Prof. Wenjie Li.  
 [2023.10] Got three papers accepted by EMNLP 2023.  
@@ -58,13 +58,11 @@ ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.66/) [[code]](https://
 Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040) [[code]](https://github.com/hemingkx/improved-gwcnn)
 
 # Service
-**Reviewer:** 
-
+**Reviewer:**  
 NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr-2024)
 
-**Teaching Assistant:**
-
-- COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, and Community Lines, Spring 2024, PolyU
+**Teaching Assistant:**  
+COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, and Community Lines, Spring 2024, PolyU
 
 # Awards
 Model Student of Social Work, Peking University (2022)  
