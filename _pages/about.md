@@ -16,8 +16,9 @@ I am **Heming Xia**, a Ph.D. student at The Hong Kong Polytechnic University, su
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
-[2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding, check it out!  
-[2024.01] Released our new survey 📖 on Speculative Decoding.  
+[2024.05] Got two papers accepted by ACL 2024.  
+[2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding.  
+[2024.01] Released our new [survey](https://arxiv.org/abs/2401.07851) 📖 on Speculative Decoding.  
 [2024.01] Started my Ph.D. study at the [Natural Language Processing Group @PolyU](https://www4.comp.polyu.edu.hk/~cswjli/Group.html), The Hong Kong Polytechnic University, supervised by Prof. Wenjie Li.  
 [2023.10] Got three papers accepted by EMNLP 2023.  
 [2023.05] Got one short paper accepted by ACL 2023.  
@@ -31,7 +32,11 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**  
 **<ins>Heming Xia</ins>**, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui  
-Arxiv 2024. [[link]](https://arxiv.org/abs/2401.07851) [[code]](https://github.com/hemingkx/SpeculativeDecodingPapers)
+Findings of ACL 2024. [[link]](https://arxiv.org/abs/2401.07851) [[code]](https://github.com/hemingkx/SpeculativeDecodingPapers)
+
+**Can Large Multimodal Models Uncover Deep Semantics Behind Images?**  
+Yixin Yang, Zheng Li, Qingxiu Dong, **<ins>Heming Xia</ins>**, Zhifang Sui   
+Findings of ACL 2024. [[link]](https://arxiv.org/abs/2402.11281)
 
 **ImageNetVC: Zero- and Few-Shot Visual Commonsense Evaluation on 1000 ImageNet Categories**  
 **<ins>Heming Xia</ins>**\*, Qingxiu Dong\*, Lei Li, Jingjing Xu, Tianyu Liu, Ziwei Qin, Zhifang Sui  
