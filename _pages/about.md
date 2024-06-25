@@ -69,7 +69,12 @@ NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun-2024)
 **Teaching Assistant:**  
 COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, and Community Lines, Spring 2024, PolyU
 
+## Invited Talks
+
+[2024.03] **Unlocking the Efficiency of LLM Inference: A Comprehensive Survey of Speculative Decoding** at NICE. [[video]](https://www.bilibili.com/video/BV1Tm411Z78w) [[slides]](https://docs.google.com/presentation/d/1JewHTyMNJuS--RmcR8Cnt9QLc3WMDD2qyfZ2GsRiho8/edit?usp=sharing)
+
 # Awards
+
 Model Student of Social Work, Peking University (2022)  
 Merit Student, Peking University (2021)  
 Scholarship of National Astronomical Observatory, Chinese Academy of Sciences (2019)  
