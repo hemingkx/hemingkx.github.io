@@ -71,7 +71,7 @@ COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, 
 
 # Invited Talks
 
-[2024.03] Unlocking the Efficiency of LLM Inference: A Comprehensive Survey of Speculative Decoding at NICE and [CIP Group @CASIA](https://nlpr.ia.ac.cn/cip/english/introduction.htm). [[video]](https://www.bilibili.com/video/BV1Tm411Z78w) [[slides]](https://docs.google.com/presentation/d/1JewHTyMNJuS--RmcR8Cnt9QLc3WMDD2qyfZ2GsRiho8/edit?usp=sharing)
+[2024.03] Unlocking the Efficiency of LLM Inference: A Comprehensive Survey of Speculative Decoding at [NICE](https://space.bilibili.com/507524288) and [CIP Group @CASIA](https://nlpr.ia.ac.cn/cip/english/introduction.htm). [[video]](https://www.bilibili.com/video/BV1Tm411Z78w) [[slides]](https://docs.google.com/presentation/d/1JewHTyMNJuS--RmcR8Cnt9QLc3WMDD2qyfZ2GsRiho8/edit?usp=sharing)
 
 # Awards
 
