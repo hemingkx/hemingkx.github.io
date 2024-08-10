@@ -30,9 +30,21 @@ I am broadly interested in natural language processing and machine learning. My 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
 \* indicates equal contribution
 
+**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**  
+Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Wenjie Li  
+Arxiv Preprint. [[link]](https://arxiv.org/abs/2406.17465)
+
+**A Survey on In-context Learning**  
+Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, **<ins>Heming Xia</ins>**, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui  
+Arxiv Preprint. [[link]](https://arxiv.org/abs/2301.00234) [[code]](https://github.com/dqxiu/ICL_PaperList) [[机器之心]](https://mp.weixin.qq.com/s/_eqK9bSlDSkIxaE0wb9sfA)
+
+**Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens**  
+Weiyao Luo, Suncong Zheng, **<ins>Heming Xia</ins>**, Weikang Wang, Yan Lei, Tianyu Liu, Shuang Chen, Zhifang Sui  
+Arxiv Preprint. [[link]](https://arxiv.org/abs/2406.10985)
+
 **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**  
 **<ins>Heming Xia</ins>**, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui  
-Findings of ACL 2024. [[link]](https://arxiv.org/abs/2401.07851) [[code]](https://github.com/hemingkx/SpeculativeDecodingPapers)
+Findings of ACL 2024. [[link]](https://arxiv.org/abs/2401.07851) [[code]](https://github.com/hemingkx/SpeculativeDecodingPapers) [[机器之心]](https://mp.weixin.qq.com/s/YpIDH0GV-DLnB2-ThGfaJg)
 
 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**  
 Yixin Yang, Zheng Li, Qingxiu Dong, **<ins>Heming Xia</ins>**, Zhifang Sui   
