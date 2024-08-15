@@ -45,7 +45,7 @@ Arxiv Preprint. [[link]](https://arxiv.org/abs/2406.10985)
 
 **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**  
 **<ins>Heming Xia</ins>**, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui  
-Findings of ACL 2024. [[link]](https://arxiv.org/abs/2401.07851) [[code]](https://github.com/hemingkx/SpeculativeDecodingPapers) [[机器之心]](https://mp.weixin.qq.com/s/YpIDH0GV-DLnB2-ThGfaJg)
+Findings of ACL 2024. [[link]](https://aclanthology.org/2024.findings-acl.456/) [[code]](https://github.com/hemingkx/Spec-Bench) [[机器之心]](https://mp.weixin.qq.com/s/YpIDH0GV-DLnB2-ThGfaJg)
 
 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**  
 Yixin Yang, Zheng Li, Qingxiu Dong, **<ins>Heming Xia</ins>**, Zhifang Sui   
