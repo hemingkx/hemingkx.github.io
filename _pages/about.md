@@ -49,7 +49,7 @@ Findings of ACL 2024. [[link]](https://aclanthology.org/2024.findings-acl.456/) 
 
 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**  
 Yixin Yang, Zheng Li, Qingxiu Dong, **<ins>Heming Xia</ins>**, Zhifang Sui   
-Findings of ACL 2024. [[link]](https://arxiv.org/abs/2402.11281) [[code]](https://github.com/AnnaYang2020/DeepEval)
+Findings of ACL 2024. [[link]](https://aclanthology.org/2024.findings-acl.113/) [[code]](https://github.com/AnnaYang2020/DeepEval)
 
 **ImageNetVC: Zero- and Few-Shot Visual Commonsense Evaluation on 1000 ImageNet Categories**  
 **<ins>Heming Xia</ins>**\*, Qingxiu Dong\*, Lei Li, Jingjing Xu, Tianyu Liu, Ziwei Qin, Zhifang Sui  
