@@ -20,7 +20,7 @@ I am broadly interested in natural language processing and machine learning. My 
 [2024.05] Got two papers accepted by ACL 2024.  
 [2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding.  
 [2024.01] Released our new [survey](https://arxiv.org/abs/2401.07851) 📖 on Speculative Decoding.  
-[2024.01] Started my Ph.D. study at the [Natural Language Processing Group @PolyU](https://www4.comp.polyu.edu.hk/~cswjli/Group.html), The Hong Kong Polytechnic University, supervised by Prof. Wenjie Li.  
+[2024.01] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/), supervised by Prof. Wenjie Li.  
 [2023.10] Got three papers accepted by EMNLP 2023.  
 [2023.05] Got one short paper accepted by ACL 2023.  
 [2022.05] Got one paper accepted by ACL 2022.  
@@ -77,7 +77,7 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Reviewer:**  
-NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun-2024)
+NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun, Aug-2024)
 
 **Teaching Assistant:**  
 COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, and Community Lines, Spring 2024, PolyU
