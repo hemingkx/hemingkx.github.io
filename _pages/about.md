@@ -16,6 +16,7 @@ I am **Heming Xia**, a Ph.D. student at the [NLP Group](https://polyunlp.github.
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
+[2024.09] Got four papers accepted by EMNLP 2024. Congrats to all co-authors🎉!
 [2024.08] Heading to ACL 2024 -- see you all in Bangkok👋!  
 [2024.05] Got two papers accepted by ACL 2024.  
 [2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding.  
@@ -31,17 +32,21 @@ I am broadly interested in natural language processing and machine learning. My 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
 \* indicates equal contribution
 
-**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**  
-Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Wenjie Li  
-Arxiv Preprint. [[link]](https://arxiv.org/abs/2406.17465)
+**MetaBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
+Hongru WANG, Rui Wang, Boyang XUE, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
+EMNLP 2024.
 
 **A Survey on In-context Learning**  
 Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, **<ins>Heming Xia</ins>**, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui  
-Arxiv Preprint. [[link]](https://arxiv.org/abs/2301.00234) [[code]](https://github.com/dqxiu/ICL_PaperList) [[机器之心]](https://mp.weixin.qq.com/s/_eqK9bSlDSkIxaE0wb9sfA)
+EMNLP 2024. [[link]](https://arxiv.org/abs/2301.00234) [[code]](https://github.com/dqxiu/ICL_PaperList) [[机器之心]](https://mp.weixin.qq.com/s/_eqK9bSlDSkIxaE0wb9sfA)
+
+**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**  
+Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Wenjie Li  
+Findings of EMNLP 2024. [[link]](https://arxiv.org/abs/2406.17465)
 
 **Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens**  
 Weiyao Luo, Suncong Zheng, **<ins>Heming Xia</ins>**, Weikang Wang, Yan Lei, Tianyu Liu, Shuang Chen, Zhifang Sui  
-Arxiv Preprint. [[link]](https://arxiv.org/abs/2406.10985)
+Findings of EMNLP 2024. [[link]](https://arxiv.org/abs/2406.10985)
 
 **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**  
 **<ins>Heming Xia</ins>**, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui  
@@ -77,7 +82,7 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Reviewer:**  
-NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun, Aug-2024)
+NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun, Aug-2024), ICLR 2025
 
 **Teaching Assistant:**  
 COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, and Community Lines, Spring 2024, PolyU
