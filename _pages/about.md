@@ -93,8 +93,6 @@ COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, 
 
 # Awards
 
-Model Student of Social Work, Peking University (2022)  
 Merit Student, Peking University (2021)  
 Scholarship of National Astronomical Observatory, Chinese Academy of Sciences (2019)  
-Outstanding Volunteer Award of Volunteer and Cultural Program in Thailand, The Green Lion (2017)  
 Merit Student, Henan Province, China (2016)  
