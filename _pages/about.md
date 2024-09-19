@@ -33,7 +33,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* indicates equal contribution
 
 **MetaBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
-Hongru WANG, Rui Wang, Boyang XUE, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
+Hongru Wang, Rui Wang, Boyang Xue, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
 EMNLP 2024.
 
 **A Survey on In-context Learning**  
