@@ -85,7 +85,9 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun, Aug-2024), ICLR 2025
 
 **Teaching Assistant:**  
-COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, and Community Lines, Spring 2024, PolyU
+
+- COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural, Ethnic, and Community Lines, Spring 2024, PolyU
+- COMP 5140: Metaverse Fundamentals, Fall 2024, PolyU
 
 # Invited Talks
 
