@@ -16,8 +16,8 @@ I am **Heming Xia**, a Ph.D. student at the [NLP Group](https://polyunlp.github.
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
-[2024.09] Got four papers accepted by EMNLP 2024, congrats to all co-authors🎉!  
-[2024.08] Heading to ACL 2024 -- see you all in Bangkok👋!  
+[2024.10] Released [SWIFT](https://arxiv.org/abs/2410.06916): on-the-fly self-speculative decoding for LLM inference acceleration🔥. 
+[2024.09] Got four papers accepted by EMNLP 2024, congrats to all co-authors🎉!   
 [2024.05] Got two papers accepted by ACL 2024.  
 [2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding.  
 [2024.01] Released our new [survey](https://arxiv.org/abs/2401.07851) 📖 on Speculative Decoding.  
@@ -31,6 +31,10 @@ I am broadly interested in natural language processing and machine learning. My 
 # Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
 \* indicates equal contribution
+
+**SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
+**<ins>Heming Xia</ins>**, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
+Arxiv Preprint.  [[link]](https://arxiv.org/abs/2410.06916) [[code]](https://github.com/hemingkx/SWIFT)
 
 **MetaBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
 Hongru Wang, Rui Wang, Boyang Xue, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
