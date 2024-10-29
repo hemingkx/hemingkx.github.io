@@ -36,9 +36,9 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 **<ins>Heming Xia</ins>**, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
 Arxiv Preprint.  [[link]](https://arxiv.org/abs/2410.06916) [[code]](https://github.com/hemingkx/SWIFT)
 
-**MetaBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
+**AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
 Hongru Wang, Rui Wang, Boyang Xue, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
-EMNLP 2024.
+EMNLP 2024.  [[link]](https://arxiv.org/abs/2410.19743) [[code]](https://github.com/ruleGreen/AppBench)
 
 **A Survey on In-context Learning**  
 Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, **<ins>Heming Xia</ins>**, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui  
@@ -86,7 +86,7 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Reviewer:**  
-NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun, Aug-2024), ICLR 2025
+NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun, Aug, Oct-2024), ICLR 2025
 
 **Teaching Assistant:**  
 COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural and Ethnic, Spring 2024, PolyU  
