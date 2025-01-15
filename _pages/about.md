@@ -16,6 +16,7 @@ I am **Heming Xia**, a Ph.D. student at the [NLP Group](https://polyunlp.github.
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
+[2025.01] We will organize a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025. See you in Abu Dhabi👏!   
 [2024.10] Released [SWIFT](https://arxiv.org/abs/2410.06916): on-the-fly self-speculative decoding for LLM inference acceleration🔥.   
 [2024.09] Got four papers accepted by EMNLP 2024, congrats to all co-authors🎉!   
 [2024.05] Got two papers accepted by ACL 2024.  
@@ -86,15 +87,19 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Reviewer:**  
-NeurIPS 2022, AACL 2022, AACL 2023, ARR (Feb, Apr, Jun, Aug, Oct-2024), ICLR 2025
+**2024:** ARR (Feb, Apr, Jun, Aug, Oct) , ACL, EMNLP (**Outstanding Award**), ICLR  
+**2023:** ARR, AACL  
+**2022:** NeurIPS, AACL  
 
 **Teaching Assistant:**  
+COMP 5423: Natural Language Processing, Spring 2025, PolyU  
+COMP 5140: Metaverse Fundamentals, Fall 2024, PolyU  
 COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural and Ethnic, Spring 2024, PolyU  
-COMP 5140: Metaverse Fundamentals, Fall 2024, PolyU
 
 # Invited Talks
 
-[2024.03] Unlocking the Efficiency of LLM Inference: A Comprehensive Survey of Speculative Decoding at [NICE](https://nice-nlp.github.io/) and [CIP Group @CASIA](https://nlpr.ia.ac.cn/cip/english/introduction.htm). [[video]](https://www.bilibili.com/video/BV1Tm411Z78w) [[slides]](https://docs.google.com/presentation/d/1JewHTyMNJuS--RmcR8Cnt9QLc3WMDD2qyfZ2GsRiho8/edit?usp=sharing)
+[2025.01] Speculative Decoding for Efficient LLM Inference at [COLING 2025](https://coling2025.org/program/tutorials/#tutorial-1-speculative-decoding-for-efficient-llm-inference). [[homepage]](https://speculative-decoding.github.io/)   
+[2024.03] Unlocking the Efficiency of LLM Inference: A Comprehensive Survey of Speculative Decoding at [NICE](https://nice-nlp.github.io/) and [CIP Group @CASIA](https://nlpr.ia.ac.cn/cip/english/introduction.htm). [[video]](https://www.bilibili.com/video/BV1Tm411Z78w) [[slides]](https://docs.google.com/presentation/d/1JewHTyMNJuS--RmcR8Cnt9QLc3WMDD2qyfZ2GsRiho8/edit?usp=sharing)  
 
 # Awards
 
