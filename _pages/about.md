@@ -16,10 +16,10 @@ I am **Heming Xia**, a Ph.D. student at the [NLP Group](https://polyunlp.github.
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
-[2025.01] Got one papers accepted by ICLR 2025.  
+[2025.01] Got one paper accepted by ICLR 2025, congrats to all co-authors🎉! 
 [2025.01] We will organize a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025. See you in Abu Dhabi👏!   
 [2024.10] Released [SWIFT](https://arxiv.org/abs/2410.06916): on-the-fly self-speculative decoding for LLM inference acceleration🔥.   
-[2024.09] Got four papers accepted by EMNLP 2024, congrats to all co-authors🎉!   
+[2024.09] Got four papers accepted by EMNLP 2024.  
 [2024.05] Got two papers accepted by ACL 2024.  
 [2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding.  
 [2024.01] Released our new [survey](https://aclanthology.org/2024.findings-acl.456/) 📖 on Speculative Decoding.  
