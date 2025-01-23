@@ -99,7 +99,7 @@ COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural and Ethni
 
 # Invited Talks
 
-[2025.01] Speculative Decoding for Efficient LLM Inference at [COLING 2025](https://coling2025.org/program/tutorials/#tutorial-1-speculative-decoding-for-efficient-llm-inference). [[homepage]](https://speculative-decoding.github.io/) [[slides]](https://tinyurl.com/speculative-decoding-tutorial)   
+[2025.01] Speculative Decoding for Efficient LLM Inference at [COLING 2025](https://coling2025.org/program/tutorials/#tutorial-1-speculative-decoding-for-efficient-llm-inference). [[homepage]](https://speculative-decoding.github.io/) [[slides]](https://tinyurl.com/speculative-decoding-tutorial) [[video]](https://tinyurl.com/spec-tutorial-recording)  
 [2024.03] Unlocking the Efficiency of LLM Inference: A Comprehensive Survey of Speculative Decoding at [NICE](https://nice-nlp.github.io/) and [CIP Group @CASIA](https://nlpr.ia.ac.cn/cip/english/introduction.htm). [[video]](https://www.bilibili.com/video/BV1Tm411Z78w) [[slides]](https://docs.google.com/presentation/d/1JewHTyMNJuS--RmcR8Cnt9QLc3WMDD2qyfZ2GsRiho8/edit?usp=sharing)  
 
 # Awards
