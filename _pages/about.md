@@ -87,8 +87,8 @@ ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.66/) [[code]](https://
 Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040) [[code]](https://github.com/hemingkx/improved-gwcnn)
 
 # Service
-**Reviewer:**  
-**2024:** ARR (Feb, Apr, Jun, Aug, Oct) , ACL, EMNLP (**Outstanding Award**), ICLR  
+**Reviewer/Program Committee Member:**  
+**2024:** ARR (Feb, Apr, Jun, Aug, Oct) , ACL, EMNLP (**Outstanding Reviewer Award**), ICLR  
 **2023:** ARR, AACL  
 **2022:** NeurIPS, AACL  
 
