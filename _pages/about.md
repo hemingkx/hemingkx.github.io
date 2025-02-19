@@ -34,6 +34,10 @@ I am broadly interested in natural language processing and machine learning. My 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
 \* indicates equal contribution
 
+**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
+**<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
+Arxiv 2025.  [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
+
 **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
 **<ins>Heming Xia</ins>**, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
 ICLR 2025.  [[link]](https://arxiv.org/abs/2410.06916) [[code]](https://github.com/hemingkx/SWIFT)
