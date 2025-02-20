@@ -37,15 +37,19 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
 **<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
-Arxiv 2025.  [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
+Arxiv 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
+
+**Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
+Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
+Arxiv 2025. [[link]](https://arxiv.org/abs/2502.13925)
 
 **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
 **<ins>Heming Xia</ins>**, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
-ICLR 2025.  [[link]](https://arxiv.org/abs/2410.06916) [[code]](https://github.com/hemingkx/SWIFT)
+ICLR 2025. [[link]](https://arxiv.org/abs/2410.06916) [[code]](https://github.com/hemingkx/SWIFT)
 
 **AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
 Hongru Wang, Rui Wang, Boyang Xue, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
-EMNLP 2024.  [[link]](https://aclanthology.org/2024.emnlp-main.856/) [[code]](https://github.com/ruleGreen/AppBench)
+EMNLP 2024. [[link]](https://aclanthology.org/2024.emnlp-main.856/) [[code]](https://github.com/ruleGreen/AppBench)
 
 **A Survey on In-context Learning**  
 Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, **<ins>Heming Xia</ins>**, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui  
