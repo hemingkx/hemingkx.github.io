@@ -39,6 +39,10 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 **<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
 
+**How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**  
+Rui Li, **<ins>Heming Xia</ins>**, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
+Arxiv 2025. [[link]](https://arxiv.org/abs/2502.14642) [[code]](https://github.com/O-L1RU1/BehaviorChain)
+
 **Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
 Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2502.13925)
