@@ -100,10 +100,13 @@ ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.66/) [[code]](https://
 Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040) [[code]](https://github.com/hemingkx/improved-gwcnn)
 
 # Service
+**Area Chair/Action Editor:**  
+**2025:** ARR (Feb)  
+
 **Reviewer/Program Committee Member:**  
 **2025:** ARR (Feb)  
-**2024:** ARR, ACL, EMNLP (**Outstanding Reviewer Award**), NAACL, ICLR  
-**2023:** ARR, AACL  
+**2024:** ACL, EMNLP (**Outstanding Reviewer Award**), NAACL, ICLR, ARR  
+**2023:** AACL, ARR  
 **2022:** NeurIPS, AACL  
 
 **Teaching Assistant:**  
