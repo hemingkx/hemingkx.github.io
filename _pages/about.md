@@ -43,6 +43,10 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.c
 Rui Li, **<ins>Heming Xia</ins>**, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2502.14642) [[code]](https://github.com/O-L1RU1/BehaviorChain)
 
+**PEToolLLM: Towards Personalized Tool Learning in Large Language Models**  
+Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Fan Liu, Min Yang, Wenjie Li  
+Arxiv 2025. [[link]](https://arxiv.org/abs/2502.18980) [[code]](https://github.com/travis-xu/PEToolBench)
+
 **Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
 Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2502.13925)
