@@ -109,7 +109,7 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 **Reviewer/Program Committee Member:**  
 **2025:** ARR (Feb)  
-**2024:** ICLR, ACL, EMNLP ([Outstanding Reviewer Award](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ARR  
+**2024:** ICLR, ACL, EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ARR  
 **2023:** AACL, ARR  
 **2022:** NeurIPS, AACL  
 
