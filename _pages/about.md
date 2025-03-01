@@ -53,7 +53,7 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2502.13925)
 
 **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
 **<ins>Heming Xia</ins>**, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
-ICLR 2025. [[link]](https://arxiv.org/abs/2410.06916) [[code]](https://github.com/hemingkx/SWIFT)
+ICLR 2025. [[link]](https://openreview.net/forum?id=EKJhH5D5wA) [[code]](https://github.com/hemingkx/SWIFT)
 
 **AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
 Hongru Wang, Rui Wang, Boyang Xue, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
