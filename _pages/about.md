@@ -105,12 +105,12 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Area Chair/Action Editor:**  
-**2025:** ARR (Feb)  
+**2025:** ACL ARR (Feb)  
 
 **Reviewer/Program Committee Member:**  
-**2025:** ARR (Feb)  
-**2024:** ICLR, ACL, EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ARR  
-**2023:** AACL, ARR  
+**2025:** ACL ARR (Feb)  
+**2024:** ICLR, ACL, EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACL ARR  
+**2023:** AACL, ACL ARR  
 **2022:** NeurIPS, AACL  
 
 **Teaching Assistant:**  
