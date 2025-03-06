@@ -131,4 +131,4 @@ Merit Student, Henan Province, China (2016)
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mGyP2nM9Iiu7frojJe4AMduspbYOo7-StVIGO8tOa6A"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=353&t=tt&d=mGyP2nM9Iiu7frojJe4AMduspbYOo7-StVIGO8tOa6A'></script>
