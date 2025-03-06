@@ -128,3 +128,7 @@ COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural and Ethni
 Merit Student, Peking University (2021)  
 Scholarship of National Astronomical Observatory, Chinese Academy of Sciences (2019)  
 Merit Student, Henan Province, China (2016)  
+
+
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mGyP2nM9Iiu7frojJe4AMduspbYOo7-StVIGO8tOa6A"></script>
