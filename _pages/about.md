@@ -16,6 +16,7 @@ I am **Heming Xia**, a Ph.D. student at the [NLP Group](https://polyunlp.github.
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP, 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
+[2025.05] Got three papers accepted by ACL 2025.  
 [2025.02] Released [TokenSkip](https://arxiv.org/abs/2502.12067), enabling LLMs to skip less important tokens during CoT generation🔥.   
 [2025.01] Got one paper accepted by ICLR 2025, congrats to all co-authors🎉!    
 [2025.01] We will organize a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025. See you in Abu Dhabi👏!   
@@ -39,17 +40,21 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 **<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
 
-**How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**  
-Rui Li, **<ins>Heming Xia</ins>**, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2502.14642) [[code]](https://github.com/O-L1RU1/BehaviorChain)
-
-**PEToolLLM: Towards Personalized Tool Learning in Large Language Models**  
-Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Fan Liu, Min Yang, Wenjie Li  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2502.18980) [[code]](https://github.com/travis-xu/PEToolBench)
-
 **Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
 Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2502.13925)
+
+**Towards Harmonized Uncertainty Estimation for Large Language Models**  
+Rui Li, Jing Long, Muge Qi, **<ins>Heming Xia</ins>**, Lei Sha, Peiyi Wang, Zhifang Sui  
+ACL 2025. [[link]](https://arxiv.org/abs/2502.14642) [[code]](https://github.com/O-L1RU1/BehaviorChain)
+
+**How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**  
+Rui Li, **<ins>Heming Xia</ins>**, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
+Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.14642) [[code]](https://github.com/O-L1RU1/BehaviorChain)
+
+**PEToolLLM: Towards Personalized Tool Learning in Large Language Models**  
+Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Fan Liu, Min Yang, Wenjie Li  
+Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.18980) [[code]](https://github.com/travis-xu/PEToolBench)
 
 **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
 **<ins>Heming Xia</ins>**, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
