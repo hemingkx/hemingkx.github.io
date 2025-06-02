@@ -44,6 +44,14 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.c
 Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2502.13925)
 
+**Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
+Xinghao Chen\*, Anhao Zhao\*, **<ins>Heming Xia</ins>**, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang, Wenjie Li, Xiaoyu Shen  
+Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
+
+**KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**  
+Mingbo Song, **<ins>Heming Xia</ins>**, Jun Zhang, Chak Tou Leong, Qiancheng Xu, Wenjie Li, Sujian Li  
+Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16162)
+
 **Towards Harmonized Uncertainty Estimation for Large Language Models**  
 Rui Li, Jing Long, Muge Qi, **<ins>Heming Xia</ins>**, Lei Sha, Peiyi Wang, Zhifang Sui  
 ACL 2025. [[link]](https://arxiv.org/abs/2505.19073)
@@ -110,7 +118,7 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Area Chair/Action Editor:**  
-**2025:** ACL, ACL ARR  
+**2025:** ACL, EMNLP, ACL ARR  
 
 **Reviewer/Program Committee Member:**  
 **2025:** ICML, ACM MM, NeurIPS  
