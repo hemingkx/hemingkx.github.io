@@ -54,7 +54,7 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16162)
 
 **Towards Harmonized Uncertainty Estimation for Large Language Models**  
 Rui Li, Jing Long, Muge Qi, **<ins>Heming Xia</ins>**, Lei Sha, Peiyi Wang, Zhifang Sui  
-ACL 2025. [[link]](https://arxiv.org/abs/2505.19073)
+ACL 2025 <font color=red>**(Oral Presentation)**</font>. [[link]](https://arxiv.org/abs/2505.19073)
 
 **How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**  
 Rui Li, **<ins>Heming Xia</ins>**, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
