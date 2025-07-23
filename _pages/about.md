@@ -27,10 +27,6 @@ I am broadly interested in natural language processing and machine learning. My 
 [2024.01] Released our new [survey](https://aclanthology.org/2024.findings-acl.456/) 📖 on Speculative Decoding.  
 [2024.01] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/), supervised by Prof. Wenjie Li.  
 [2023.10] Got three papers accepted by EMNLP 2023.  
-[2023.05] Got one short paper accepted by ACL 2023.  
-[2022.05] Got one paper accepted by ACL 2022.  
-[2021.10] Started my research internship at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.  
-[2020.09] Started my Master study at the [MOE Key Laboratory of Computational Linguistics](https://icl.pku.edu.cn/), Peking University, advised by Prof. Zhifang Sui.
 
 # Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
