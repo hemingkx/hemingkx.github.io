@@ -48,6 +48,10 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16782) [[code]](https://github.c
 Mingbo Song, **<ins>Heming Xia</ins>**, Jun Zhang, Chak Tou Leong, Qiancheng Xu, Wenjie Li, Sujian Li  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16162)
 
+**From Query to Logic: Ontology-Driven Multi-Hop Reasoning in LLMs**  
+Haonan Bian, Yutao Qi, Rui Yang, Yuanxi Che, Jiaqian Wang, **<ins>Heming Xia</ins>**, Ranran Zhen  
+Arxiv 2025. [[link]](https://arxiv.org/abs/2508.01424)
+
 **Towards Harmonized Uncertainty Estimation for Large Language Models**  
 Rui Li, Jing Long, Muge Qi, **<ins>Heming Xia</ins>**, Lei Sha, Peiyi Wang, Zhifang Sui  
 ACL 2025 <font color="red"><b>(Oral Presentation)</b></font>. [[link]](https://arxiv.org/abs/2505.19073)
