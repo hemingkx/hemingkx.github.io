@@ -16,10 +16,11 @@ I am **Heming Xia**, a Ph.D. student in the [NLP Group](https://polyunlp.github.
 I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP, 2) tool learning, and 3) cross vision and language understanding.**
 
 # News
-[2025.05] Got three papers accepted by ACL 2025, congrats to all co-authors🎉!  
-[2025.02] Released [TokenSkip](https://arxiv.org/abs/2502.12067), enabling LLMs to skip less important tokens during CoT generation🔥.   
+[2025.08] Got three papers accepted by EMNLP 2025, congrats to all co-authors🎉!  
+[2025.05] Got three papers accepted by ACL 2025.  
+[2025.02] Released [TokenSkip](https://arxiv.org/abs/2502.12067), enabling LLMs to skip less important tokens during reasoning.   
 [2025.01] Got one paper accepted by ICLR 2025.    
-[2025.01] We will organize a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025. See you in Abu Dhabi👏!   
+[2025.01] Organized a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025.   
 [2024.10] Released [SWIFT](https://arxiv.org/abs/2410.06916): on-the-fly self-speculative decoding for LLM inference acceleration.   
 [2024.09] Got four papers accepted by EMNLP 2024.  
 [2024.05] Got two papers accepted by ACL 2024.  
@@ -32,14 +33,6 @@ I am broadly interested in natural language processing and machine learning. My 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
 \* indicates equal contribution
 
-**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
-**<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
-
-**Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
-Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
-Arxiv 2025. [[link]](https://arxiv.org/abs/2502.13925)
-
 **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
 Xinghao Chen\*, Anhao Zhao\*, **<ins>Heming Xia</ins>**, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang, Wenjie Li, Xiaoyu Shen  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
@@ -51,6 +44,18 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16162)
 **From Query to Logic: Ontology-Driven Multi-Hop Reasoning in LLMs**  
 Haonan Bian, Yutao Qi, Rui Yang, Yuanxi Che, Jiaqian Wang, **<ins>Heming Xia</ins>**, Ranran Zhen  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2508.01424)
+
+**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
+**<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
+EMNLP 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
+
+**SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
+Yicheng Ji, Jun Zhang, **<ins>Heming Xia</ins>**, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li  
+EMNLP 2025.
+
+**Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
+Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
+Findings of EMNLP 2025. [[link]](https://arxiv.org/abs/2502.13925)
 
 **Towards Harmonized Uncertainty Estimation for Large Language Models**  
 Rui Li, Jing Long, Muge Qi, **<ins>Heming Xia</ins>**, Lei Sha, Peiyi Wang, Zhifang Sui  
