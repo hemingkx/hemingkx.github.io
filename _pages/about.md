@@ -47,7 +47,7 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2508.01424)
 
 **TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
 **<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
-EMNLP 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
+EMNLP 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip) <font color="red"><b>(Best Oral Presentation @ PolyU COMP 2025 Research Conference)</b></font>
 
 **SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
 Yicheng Ji, Jun Zhang, **<ins>Heming Xia</ins>**, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li  
@@ -59,7 +59,7 @@ Findings of EMNLP 2025. [[link]](https://arxiv.org/abs/2502.13925)
 
 **Towards Harmonized Uncertainty Estimation for Large Language Models**  
 Rui Li, Jing Long, Muge Qi, **<ins>Heming Xia</ins>**, Lei Sha, Peiyi Wang, Zhifang Sui  
-ACL 2025 <font color="red"><b>(Oral Presentation)</b></font>. [[link]](https://arxiv.org/abs/2505.19073)
+ACL 2025. [[link]](https://arxiv.org/abs/2505.19073) <font color="red"><b>(Oral Presentation)</b></font>
 
 **How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**  
 Rui Li, **<ins>Heming Xia</ins>**, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
@@ -126,12 +126,13 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 **2025:** ACL, EMNLP, ACL ARR  
 
 **Reviewer/Program Committee Member:**  
-**2025:** ICLR, ICML, NeurIPS, ACM MM  
+**2025:** ICLR, ICML, NeurIPS, ACM MM, TASLP, TWEB  
 **2024:** ACL, EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACL ARR  
 **2023:** AACL, NAACL, ACL ARR  
 **2022:** NeurIPS, AACL  
 
 **Teaching Assistant:**  
+COMP 5423: Natural Language Processing, Fall 2025, PolyU  
 COMP 5423: Natural Language Processing, Spring 2025, PolyU  
 COMP 5140: Metaverse Fundamentals, Fall 2024, PolyU  
 COMP 2S01: Technology Beyond Borders: Service Learning Across Cultural and Ethnic, Spring 2024, PolyU  
