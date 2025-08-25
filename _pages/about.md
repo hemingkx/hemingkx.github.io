@@ -50,7 +50,7 @@ Arxiv 2025. [[link]](https://arxiv.org/abs/2508.01424)
 EMNLP 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip) <font color="red"><b>(Best Oral Presentation @ PolyU COMP 2025 Research Conference)</b></font>
 
 **SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
-Yicheng Ji, Jun Zhang, **<ins>Heming Xia</ins>**, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li  
+Yicheng Ji\*, Jun Zhang\*, **<ins>Heming Xia</ins>**, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li  
 EMNLP 2025. [[link]](https://arxiv.org/abs/2508.16201)
 
 **Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
