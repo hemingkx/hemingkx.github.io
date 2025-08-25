@@ -51,7 +51,7 @@ EMNLP 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.c
 
 **SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
 Yicheng Ji, Jun Zhang, **<ins>Heming Xia</ins>**, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li  
-EMNLP 2025.
+EMNLP 2025. [[link]](https://arxiv.org/abs/2508.16201)
 
 **Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
 Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
