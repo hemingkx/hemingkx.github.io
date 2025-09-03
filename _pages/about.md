@@ -34,91 +34,91 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* indicates equal contribution
 
 **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
-Xinghao Chen\*, Anhao Zhao\*, **<ins>Heming Xia</ins>**, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang, Wenjie Li, Xiaoyu Shen  
+Xinghao Chen\*, Anhao Zhao\*, *<ins>Heming Xia</ins>*, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang, Wenjie Li, Xiaoyu Shen  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 
 **KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**  
-Mingbo Song, **<ins>Heming Xia</ins>**, Jun Zhang, Chak Tou Leong, Qiancheng Xu, Wenjie Li, Sujian Li  
+Mingbo Song, *<ins>Heming Xia</ins>*, Jun Zhang, Chak Tou Leong, Qiancheng Xu, Wenjie Li, Sujian Li  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2505.16162)
 
 **From Query to Logic: Ontology-Driven Multi-Hop Reasoning in LLMs**  
-Haonan Bian, Yutao Qi, Rui Yang, Yuanxi Che, Jiaqian Wang, **<ins>Heming Xia</ins>**, Ranran Zhen  
+Haonan Bian, Yutao Qi, Rui Yang, Yuanxi Che, Jiaqian Wang, *<ins>Heming Xia</ins>*, Ranran Zhen  
 Arxiv 2025. [[link]](https://arxiv.org/abs/2508.01424)
 
 **TokenSkip: Controllable Chain-of-Thought Compression in LLMs**  
-**<ins>Heming Xia</ins>**, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
-EMNLP 2025. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip) <font color="red"><b>(Best Oral Presentation @ PolyU COMP 2025 Research Conference)</b></font>
+*<ins>Heming Xia</ins>*, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li  
+EMNLP 2025. <font color="red">Best Oral Presentation @ PolyU COMP 2025 Research Conference</font>. [[link]](https://arxiv.org/abs/2502.12067) [[code]](https://github.com/hemingkx/TokenSkip)
 
 **SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
-Yicheng Ji\*, Jun Zhang\*, **<ins>Heming Xia</ins>**, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li  
+Yicheng Ji\*, Jun Zhang\*, *<ins>Heming Xia</ins>*, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li  
 EMNLP 2025. [[link]](https://arxiv.org/abs/2508.16201)
 
 **Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**  
-Xiaochen Wang\*, **<ins>Heming Xia</ins>**\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
+Xiaochen Wang\*, *<ins>Heming Xia</ins>*\*, Jialin Song, Longyu Guan, Yixin Yang, Qingxiu Dong, Weiyao Luo, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui  
 Findings of EMNLP 2025. [[link]](https://arxiv.org/abs/2502.13925)
 
 **Towards Harmonized Uncertainty Estimation for Large Language Models**  
-Rui Li, Jing Long, Muge Qi, **<ins>Heming Xia</ins>**, Lei Sha, Peiyi Wang, Zhifang Sui  
-ACL 2025. [[link]](https://arxiv.org/abs/2505.19073) <font color="red"><b>(Oral Presentation)</b></font>
+Rui Li, Jing Long, Muge Qi, *<ins>Heming Xia</ins>*, Lei Sha, Peiyi Wang, Zhifang Sui  
+ACL 2025. <span style="color:red">Oral Presentation</span>. [[link]](https://arxiv.org/abs/2505.19073)
 
 **How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**  
-Rui Li, **<ins>Heming Xia</ins>**, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
+Rui Li, *<ins>Heming Xia</ins>*, Xinfeng Yuan, Qingxiu Dong, Lei Sha, Wenjie Li, Zhifang Sui  
 Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.14642) [[code]](https://github.com/O-L1RU1/BehaviorChain)
 
 **PEToolLLM: Towards Personalized Tool Learning in Large Language Models**  
-Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Fan Liu, Min Yang, Wenjie Li  
+Qiancheng Xu, Yongqi Li, *<ins>Heming Xia</ins>*, Fan Liu, Min Yang, Wenjie Li  
 Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.18980) [[code]](https://github.com/travis-xu/PEToolBench)
 
 **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
-**<ins>Heming Xia</ins>**, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
+*<ins>Heming Xia</ins>*, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
 ICLR 2025. [[link]](https://openreview.net/forum?id=EKJhH5D5wA) [[code]](https://github.com/hemingkx/SWIFT)
 
 **AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction**  
-Hongru Wang, Rui Wang, Boyang Xue, **<ins>Heming Xia</ins>**, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
+Hongru Wang, Rui Wang, Boyang Xue, *<ins>Heming Xia</ins>*, Jingtao Cao, Zeming Liu, Jeff Z. Pan, Kam-Fai Wong  
 EMNLP 2024. [[link]](https://aclanthology.org/2024.emnlp-main.856/) [[code]](https://github.com/ruleGreen/AppBench)
 
 **A Survey on In-context Learning**  
-Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, **<ins>Heming Xia</ins>**, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui  
+Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, *<ins>Heming Xia</ins>*, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui  
 EMNLP 2024. [[link]](https://aclanthology.org/2024.emnlp-main.64/) [[code]](https://github.com/dqxiu/ICL_PaperList) [[机器之心]](https://mp.weixin.qq.com/s/_eqK9bSlDSkIxaE0wb9sfA)
 
 **Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**  
-Qiancheng Xu, Yongqi Li, **<ins>Heming Xia</ins>**, Wenjie Li  
+Qiancheng Xu, Yongqi Li, *<ins>Heming Xia</ins>*, Wenjie Li  
 Findings of EMNLP 2024. [[link]](https://aclanthology.org/2024.findings-emnlp.561/)
 
 **Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens**  
-Weiyao Luo, Suncong Zheng, **<ins>Heming Xia</ins>**, Weikang Wang, Yan Lei, Tianyu Liu, Shuang Chen, Zhifang Sui  
+Weiyao Luo, Suncong Zheng, *<ins>Heming Xia</ins>*, Weikang Wang, Yan Lei, Tianyu Liu, Shuang Chen, Zhifang Sui  
 Findings of EMNLP 2024. [[link]](https://aclanthology.org/2024.findings-emnlp.233/)
 
 **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**  
-**<ins>Heming Xia</ins>**, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui  
+*<ins>Heming Xia</ins>*, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui  
 Findings of ACL 2024. [[link]](https://aclanthology.org/2024.findings-acl.456/) [[code]](https://github.com/hemingkx/Spec-Bench) [[机器之心]](https://mp.weixin.qq.com/s/YpIDH0GV-DLnB2-ThGfaJg)
 
 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**  
-Yixin Yang, Zheng Li, Qingxiu Dong, **<ins>Heming Xia</ins>**, Zhifang Sui   
+Yixin Yang, Zheng Li, Qingxiu Dong, *<ins>Heming Xia</ins>*, Zhifang Sui   
 Findings of ACL 2024. [[link]](https://aclanthology.org/2024.findings-acl.113/) [[code]](https://github.com/AnnaYang2020/DeepEval)
 
 **ImageNetVC: Zero- and Few-Shot Visual Commonsense Evaluation on 1000 ImageNet Categories**  
-**<ins>Heming Xia</ins>**\*, Qingxiu Dong\*, Lei Li, Jingjing Xu, Tianyu Liu, Ziwei Qin, Zhifang Sui  
+*<ins>Heming Xia</ins>*\*, Qingxiu Dong\*, Lei Li, Jingjing Xu, Tianyu Liu, Ziwei Qin, Zhifang Sui  
 Findings of EMNLP 2023. [[link]](https://aclanthology.org/2023.findings-emnlp.133/) [[code]](https://github.com/hemingkx/ImageNetVC)
 
 **Bi-Drop: Enhancing Fine-tuning Generalization via Synchronous sub-net Estimation and Optimization**  
-Shoujie Tong\*, **<ins>Heming Xia</ins>**\*, Damai Dai, Runxin Xu, Tianyu Liu, Binghuai Lin, Yunbo Cao, and Zhifang Sui  
+Shoujie Tong\*, *<ins>Heming Xia</ins>*\*, Damai Dai, Runxin Xu, Tianyu Liu, Binghuai Lin, Yunbo Cao, and Zhifang Sui  
 Findings of EMNLP 2023. [[link]](https://aclanthology.org/2023.findings-emnlp.346/)
 
 **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**  
-**<ins>Heming Xia</ins>**\*, Tao Ge\*, Peiyi Wang, Si-Qing Chen, Furu wei, and Zhifang Sui  
+*<ins>Heming Xia</ins>*\*, Tao Ge\*, Peiyi Wang, Si-Qing Chen, Furu wei, and Zhifang Sui  
 Findings of EMNLP 2023. [[link]](https://aclanthology.org/2023.findings-emnlp.257/) [[code]](https://github.com/hemingkx/SpecDec)
 
 **Enhancing Continual Relation Extraction via Classifier Decomposition**  
-**<ins>Heming Xia</ins>**, Peiyi Wang, Tianyu Liu, Binghuai Lin, Yunbo Cao, and Zhifang Sui  
+*<ins>Heming Xia</ins>*, Peiyi Wang, Tianyu Liu, Binghuai Lin, Yunbo Cao, and Zhifang Sui  
 Findings of ACL 2023. [[link]](https://aclanthology.org/2023.findings-acl.638/) [[code]](https://github.com/hemingkx/CDec)
 
 **Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues**  
-Qingxiu Dong\*, Ziwei Qin\*, **<ins>Heming Xia</ins>**, Tian Feng, Shoujie Tong, Haoran Meng, Lin Xu, Zhongyu Wei, Weidong Zhan, Baobao Chang, Sujian Li, Tianyu Liu and Zhifang Sui  
+Qingxiu Dong\*, Ziwei Qin\*, *<ins>Heming Xia</ins>*, Tian Feng, Shoujie Tong, Haoran Meng, Lin Xu, Zhongyu Wei, Weidong Zhan, Baobao Chang, Sujian Li, Tianyu Liu and Zhifang Sui  
 ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.66/) [[code]](https://2030nlp.github.io/PMR/)
 
 **Improved deep learning techniques in gravitational-wave data analysis**  
-**<ins>Heming Xia</ins>**, Lijing Shao, Junjie Zhao and Zhoujian Cao  
+*<ins>Heming Xia</ins>*, Lijing Shao, Junjie Zhao and Zhoujian Cao  
 Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040) [[code]](https://github.com/hemingkx/improved-gwcnn)
 
 # Service
