@@ -123,13 +123,13 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Area Chair/Action Editor:**  
-**2025:** ACL, EMNLP, ACL ARR  
+2025: ACL, EMNLP, ACL ARR  
 
 **Reviewer/Program Committee Member:**  
-**2025:** ICLR, ICML, NeurIPS, ACM MM, TASLP, TWEB  
-**2024:** ACL, EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACL ARR  
-**2023:** AACL, NAACL, ACL ARR  
-**2022:** NeurIPS, AACL  
+2025: ICLR, ICML, NeurIPS, ACM MM, TASLP, TWEB  
+2024: ACL, EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACL ARR  
+2023: AACL, NAACL, ACL ARR  
+2022: NeurIPS, AACL  
 
 **Teaching Assistant:**  
 COMP 5423: Natural Language Processing, Fall 2025, PolyU  
