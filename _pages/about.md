@@ -24,7 +24,7 @@ I welcome highly motivated students to collaborate on research projects related 
 # News
 
 
-<div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
 [2025.08] 🎉 Got three papers accepted by EMNLP 2025, congrats to all co-authors! <br> 
 [2025.05] Got three papers accepted by ACL 2025. <br> 
 [2025.02] Released <a href="https://arxiv.org/abs/2502.12067">TokenSkip</a>, enabling LLMs to skip less important tokens during reasoning.  <br> 
@@ -37,10 +37,8 @@ I welcome highly motivated students to collaborate on research projects related 
 [2024.01] 📖 Released our new <a href="https://aclanthology.org/2024.findings-acl.456/">survey</a> on Speculative Decoding. <br> 
 [2024.01] Started my Ph.D. study at the <a href="https://polyunlp.github.io/">NLP Group @ PolyU</a>, supervised by Prof. Wenjie Li. <br> 
 [2023.10] Got three papers accepted by EMNLP 2023. <br> 
-</div>
-<div>
-</div>
- 
+</div> 
+
 
 # Publications
 
