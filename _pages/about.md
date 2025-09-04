@@ -19,25 +19,22 @@ My research focuses on efficient and effective NLP, with the goal of making LLMs
 - **Efficient Reasoning:** Developing advanced algorithms to enhance the efficiency of reasoning models, spanning efficient training strategies, inference acceleration [[EMNLP'25](https://arxiv.org/abs/2502.12067)], and novel reasoning representations such as latent CoT [[arXiv'25](https://arxiv.org/abs/2502.12067)].
 - **Applications (Efficiency + X):** I am interested that how efficiency-oriented techniques can benefit broader applications, with recent work on tool-augmented agents and multimodal models [[EMNLP'25](https://arxiv.org/abs/2508.16201)].
 
-I welcome highly motivated students to collaborate on research projects related to (but not limited to) the topics mentioned above. If you are interested, please feel free to contact me via email 😊.
+I am open to working with highly motivated students on research projects aligned with, but not limited to, the topics mentioned above. If you are interested in collaborating, please reach out to me via email 😊.
 
 # News
 
-
-<div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
-[2025.08] 🎉 Got three papers accepted by EMNLP 2025, congrats to all co-authors! <br> 
-[2025.05] Got three papers accepted by ACL 2025. <br> 
-[2025.02] Released <a href="https://arxiv.org/abs/2502.12067">TokenSkip</a>, enabling LLMs to skip less important tokens during reasoning.  <br> 
-[2025.01] Got one paper accepted by ICLR 2025.   <br> 
-[2025.01] 🎓 Organized a tutorial on <a href="https://speculative-decoding.github.io/">Speculative Decoding</a> at COLING 2025.  <br> 
-[2024.10] Released <a href="https://arxiv.org/abs/2410.06916">SWIFT</a>: on-the-fly self-speculative decoding for LLM inference acceleration.  <br> 
-[2024.09] Got four papers accepted by EMNLP 2024. <br> 
-[2024.05] Got two papers accepted by ACL 2024. <br> 
-[2024.01] Released <a href="https://sites.google.com/view/spec-bench/">Spec-Bench</a>: a comprehensive benchmark for Speculative Decoding. <br> 
-[2024.01] 📖 Released our new <a href="https://aclanthology.org/2024.findings-acl.456/">survey</a> on Speculative Decoding. <br> 
-[2024.01] Started my Ph.D. study at the <a href="https://polyunlp.github.io/">NLP Group @ PolyU</a>, supervised by Prof. Wenjie Li. <br> 
-[2023.10] Got three papers accepted by EMNLP 2023. <br> 
-</div> 
+[2025.08] Got three papers accepted by EMNLP 2025, congrats to all co-authors🎉!  
+[2025.05] Got three papers accepted by ACL 2025.  
+[2025.02] Released [TokenSkip](https://arxiv.org/abs/2502.12067), enabling LLMs to skip less important tokens during reasoning.   
+[2025.01] Got one paper accepted by ICLR 2025.    
+[2025.01] Organized a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025.   
+[2024.10] Released [SWIFT](https://arxiv.org/abs/2410.06916): on-the-fly self-speculative decoding for LLM inference acceleration.   
+[2024.09] Got four papers accepted by EMNLP 2024.  
+[2024.05] Got two papers accepted by ACL 2024.  
+[2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding.  
+[2024.01] Released our new [survey](https://aclanthology.org/2024.findings-acl.456/) 📖 on Speculative Decoding.  
+[2024.01] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/), supervised by Prof. Wenjie Li.  
+[2023.10] Got three papers accepted by EMNLP 2023.  
 
 
 # Publications
