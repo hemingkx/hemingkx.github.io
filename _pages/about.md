@@ -20,8 +20,8 @@ My research focuses on efficient and effective NLP, with the goal of making LLMs
 - **Applications (Efficiency + X):** I am interested that how efficiency-oriented techniques can benefit broader applications, with recent work on tool-augmented agents and multimodal models [[EMNLP'25](https://arxiv.org/abs/2508.16201)].
 
 I am also interested in or actively working on the following topics:  
-- Tool Learning [e.g., [EMNLP'24](https://aclanthology.org/2024.emnlp-main.856/), [ACL'25-findings](https://aclanthology.org/2025.findings-acl.1107/)];
-- Vision-language Understanding [e.g., [ACL'22](https://aclanthology.org/2022.acl-long.66/), [EMNLP'23-findings](https://aclanthology.org/2023.findings-emnlp.133/), [EMNLP'25-findings](https://arxiv.org/abs/2502.13925)].
+Tool Learning [e.g., [EMNLP'24](https://aclanthology.org/2024.emnlp-main.856/), [ACL'25-findings](https://aclanthology.org/2025.findings-acl.1107/)];  
+Vision-language Understanding [e.g., [ACL'22](https://aclanthology.org/2022.acl-long.66/), [EMNLP'23-findings](https://aclanthology.org/2023.findings-emnlp.133/), [EMNLP'25-findings](https://arxiv.org/abs/2502.13925)].
 
 👉 *I welcome highly motivated students to collaborate on research projects related to (but not limited to) the topics mentioned above. If you are interested, please feel free to contact me via email.*
 
@@ -42,6 +42,7 @@ I am also interested in or actively working on the following topics:
 [2024.01] Started my Ph.D. study at the <a href="https://polyunlp.github.io/">NLP Group @ PolyU</a>, supervised by Prof. Wenjie Li. <br> 
 [2023.10] Got three papers accepted by EMNLP 2023. <br> 
 </div>
+
 # Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
 \* indicates equal contribution
