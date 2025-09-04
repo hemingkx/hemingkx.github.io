@@ -137,7 +137,7 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 ACL, EMNLP, ACL ARR  
 
 **Reviewer/Program Committee Member:**  
-ICLR, ICML, NeurIPS, ACL, EMNLP ([24‘ Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACM MM, TASLP, TWEB  
+ICLR, ICML, NeurIPS, ACL, EMNLP ([24' Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACM MM, TASLP, TWEB  
 
 **Teaching Assistant:**  
 COMP 5423: Natural Language Processing, Fall 2025, PolyU  
