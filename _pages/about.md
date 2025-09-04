@@ -13,21 +13,36 @@ redirect_from:
 I am **Heming Xia**, a Ph.D. student in the [NLP Group](https://polyunlp.github.io/) at The Hong Kong Polytechnic University, supervised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/). I earned my master's degree from the [MOE Key Lab of Computational Linguistics](https://icl.pku.edu.cn/) at Peking University, advised by Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1226/2014.htm). Prior to that, I completed my bachelor's degree from the [School of Physics](http://english.phy.pku.edu.cn/info/1017/5151.htm) at Peking University in 2020. I have also worked as a Research Intern at the [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), where I had the privilege of collaborating with Dr. [Tao Ge](https://scholar.google.com/citations?user=LYbs7Q8AAAAJ&hl=en). Currently, I am an intern at [SEA AI Lab](https://sail.sea.com/), working closely with Dr. [Cunxiao Du](https://nonvolatilememory.github.io/). For more details, please refer to my [CV](https://hemingkx.github.io/files/CV.pdf).
 
 # Research
-I am broadly interested in natural language processing and machine learning. My current research focuses on **1) efficient and effective NLP, 2) tool learning, and 3) cross vision and language understanding.**
+My research focuses on efficient and effective NLP, with the goal of making LLMs faster, more scalable, and more broadly applicable. Specifically, my work centers on the following directions:
+
+- **Speculative Decoding:** Exploring inference-time acceleration techniques that maintain output fidelity. This includes our pioneering work on Speculative Decoding [[**EMNLP'23-findings**](https://aclanthology.org/2023.findings-emnlp.257/), [**ICLR'25**](https://openreview.net/forum?id=EKJhH5D5wA)] and the first comprehensive survey [[**ACL'24-findings**](https://aclanthology.org/2024.findings-acl.456/)] on this emerging paradigm.
+- **Efficient Reasoning:** Developing advanced algorithms to enhance the efficiency of reasoning models, spanning efficient training strategies, inference acceleration [[**EMNLP'25**](https://arxiv.org/abs/2502.12067)], and novel reasoning representations such as latent CoT [[**arXiv'25**](https://arxiv.org/abs/2502.12067)].
+- **Applications (Efficiency + X):** I am interested that how efficiency-oriented techniques can benefit broader applications, with recent work on tool-augmented agents and multimodal models [[**EMNLP'25**](https://arxiv.org/abs/2508.16201)].
+
+I am also interested in or actively working on the following topics:
+
+- Tool Learning [e.g., [**EMNLP'24**](https://aclanthology.org/2024.emnlp-main.856/), [**ACL'25-findings**](https://aclanthology.org/2025.findings-acl.1107/)]
+- Vision-language Understanding [e.g., [**ACL'22**](https://aclanthology.org/2022.acl-long.66/), [**EMNLP'23-findings**](https://aclanthology.org/2023.findings-emnlp.133/), [**EMNLP'25-findings**](https://arxiv.org/abs/2502.13925)]
+
+👉 *I welcome highly motivated students to collaborate on research projects related to (but not limited to) the topics mentioned above. If you are interested, please feel free to contact me via email.*
 
 # News
-[2025.08] Got three papers accepted by EMNLP 2025, congrats to all co-authors🎉!  
-[2025.05] Got three papers accepted by ACL 2025.  
-[2025.02] Released [TokenSkip](https://arxiv.org/abs/2502.12067), enabling LLMs to skip less important tokens during reasoning.   
-[2025.01] Got one paper accepted by ICLR 2025.    
-[2025.01] Organized a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025.   
-[2024.10] Released [SWIFT](https://arxiv.org/abs/2410.06916): on-the-fly self-speculative decoding for LLM inference acceleration.   
-[2024.09] Got four papers accepted by EMNLP 2024.  
-[2024.05] Got two papers accepted by ACL 2024.  
-[2024.01] Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding.  
-[2024.01] Released our new [survey](https://aclanthology.org/2024.findings-acl.456/) 📖 on Speculative Decoding.  
-[2024.01] Started my Ph.D. study at the [NLP Group @ PolyU](https://polyunlp.github.io/), supervised by Prof. Wenjie Li.  
-[2023.10] Got three papers accepted by EMNLP 2023.  
+
+
+<div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+[2025.08] 🎉 Got three papers accepted by EMNLP 2025, congrats to all co-authors! <br> 
+[2025.05] Got three papers accepted by ACL 2025. <br> 
+[2025.02] Released <a href="https://arxiv.org/abs/2502.12067">TokenSkip</a>, enabling LLMs to skip less important tokens during reasoning.  <br> 
+[2025.01] Got one paper accepted by ICLR 2025.   <br> 
+[2025.01] 🎓 Organized a tutorial on <a href="https://speculative-decoding.github.io/">Speculative Decoding</a> at COLING 2025.  <br> 
+[2024.10] Released <a href="https://arxiv.org/abs/2410.06916">SWIFT</a>: on-the-fly self-speculative decoding for LLM inference acceleration.  <br> 
+[2024.09] Got four papers accepted by EMNLP 2024. <br> 
+[2024.05] Got two papers accepted by ACL 2024. <br> 
+[2024.01] Released <a href="https://sites.google.com/view/spec-bench/">Spec-Bench</a>: a comprehensive benchmark for Speculative Decoding. <br> 
+[2024.01] 📖 Released our new <a href="https://aclanthology.org/2024.findings-acl.456/">survey</a> on Speculative Decoding. <br> 
+[2024.01] Started my Ph.D. study at the <a href="https://polyunlp.github.io/">NLP Group @ PolyU</a>, supervised by Prof. Wenjie Li. <br> 
+[2023.10] Got three papers accepted by EMNLP 2023. <br> 
+</div>
 
 # Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6r2ESKkAAAAJ&hl=en).  
@@ -67,7 +82,7 @@ Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.14642) [[code]](https:
 
 **PEToolLLM: Towards Personalized Tool Learning in Large Language Models**  
 Qiancheng Xu, Yongqi Li, *<ins>Heming Xia</ins>*, Fan Liu, Min Yang, Wenjie Li  
-Findings of ACL 2025. [[link]](https://arxiv.org/abs/2502.18980) [[code]](https://github.com/travis-xu/PEToolBench)
+Findings of ACL 2025. [[link]](https://aclanthology.org/2025.findings-acl.1107/) [[code]](https://github.com/travis-xu/PEToolBench)
 
 **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
 *<ins>Heming Xia</ins>*, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li  
@@ -123,13 +138,10 @@ Phys. Rev. D 103 2021. [[link]](https://journals.aps.org/prd/abstract/10.1103/Ph
 
 # Service
 **Area Chair/Action Editor:**  
-2025: ACL, EMNLP, ACL ARR  
+ACL, EMNLP, ACL ARR  
 
 **Reviewer/Program Committee Member:**  
-2025: ICLR, ICML, NeurIPS, ACM MM, TASLP, TWEB  
-2024: ACL, EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACL ARR  
-2023: AACL, NAACL, ACL ARR  
-2022: NeurIPS, AACL  
+ICLR, ICML, NeurIPS, ACL, EMNLP ([24‘ Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)🌟), NAACL, ACM MM, TASLP, TWEB  
 
 **Teaching Assistant:**  
 COMP 5423: Natural Language Processing, Fall 2025, PolyU  
