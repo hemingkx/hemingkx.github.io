@@ -21,7 +21,7 @@ My research focuses on efficient and effective NLP, with the goal of making LLMs
 
 In addition, I am interested in or actively working on Tool Learning [e.g., [EMNLP'24](https://aclanthology.org/2024.emnlp-main.856/), [ACL'25-findings](https://aclanthology.org/2025.findings-acl.1107/)] and Vision-Language Understanding [e.g., [ACL'22](https://aclanthology.org/2022.acl-long.66/), [EMNLP'23-findings](https://aclanthology.org/2023.findings-emnlp.133/), [EMNLP'25-findings](https://arxiv.org/abs/2502.13925)].
 
-👉 *I am open to working with highly motivated students on research projects aligned with, but not limited to, the topics mentioned above. If you are interested in collaborating, please reach out to me via email 📧.*
+👉 *I am open to working with highly motivated students on research projects aligned with, but not limited to, the topics mentioned above. If you are interested in collaborating, please reach out to me via email.*
 
 # News
 
