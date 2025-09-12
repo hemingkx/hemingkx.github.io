@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+subtitle: he-ming.xia AT connect.polyu.hk
 
 profile:
   align: right
