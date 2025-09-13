@@ -16,12 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-got-three-papers-accepted-by-emnlp-2023-tada",
+        },{id: "news-got-three-papers-accepted-by-emnlp-2023-tada",
           title: 'Got three papers accepted by EMNLP 2023 :tada:',
           description: "",
           section: "News",},{id: "news-started-my-ph-d-study-at-the-nlp-group-polyu-supervised-by-prof-wenjie-li-sparkles",
