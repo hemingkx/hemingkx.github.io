@@ -1,0 +1,52 @@
+"ArXiv":
+  url: https://arxiv.org/
+  color: "#996600"
+
+"ACL":
+  url: https://aclanthology.org/venues/acl/
+  color: "#003366"
+
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#003366"
+
+"NAACL":
+  url: https://naacl.org/index.html
+  color: "#003366"
+
+"TACL":
+  url: https://transacl.org/index.php/tacl
+  color: "#003366"
+
+"ICML":
+  url: https://papers.nips.cc/
+  color: "#cc9900"
+
+
+"NeurIPS":
+  url: https://papers.nips.cc/
+  color: "#cc9900"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#cc9900"
+
+"COLM":
+  url: https://colmweb.org/
+  color: "#b3b3b0"
+
+"IJCAI":
+  url: https://www.ijcai.org/
+  color: "#ccccc0"
+
+"COLING":
+  url: https://aclanthology.org/venues/coling/
+  color: "#ccccc0"
+
+"SIGIR":
+  url: https://aclanthology.org/venues/coling/
+  color: "#ccccc0"
+
+"JBI":
+  url: https://www.sciencedirect.com/journal/journal-of-biomedical-informatics
+  color: "#B95CF4"
