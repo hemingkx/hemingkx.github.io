@@ -21,16 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-got-three-papers-accepted-by-emnlp-2023-tada",
+          title: 'Got three papers accepted by EMNLP 2023 :tada:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-my-ph-d-study-at-the-nlp-group-polyu-supervised-by-prof-wenjie-li-sparkles",
+          title: 'Started my Ph.D. study at the NLP Group @ PolyU, supervised by Prof....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
