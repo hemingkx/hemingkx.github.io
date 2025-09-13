@@ -16,7 +16,7 @@ I am Heming Xia (夏鹤明), a Ph.D. student in the [NLP Group](https://polyunlp
 
 📬 *I am open to collaborating with highly motivated students on research related to (but not limited to) the topics below. If interested, please feel free to reach out via email.*
 
-## Research
+# Research
 
 My research focuses on efficient and effective NLP, with the goal of making LLMs faster, more scalable, and more broadly applicable. Specifically, my work centers on the following directions:
 

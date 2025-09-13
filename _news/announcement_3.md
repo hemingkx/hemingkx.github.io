@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-10 07:59:00-0400
+date: 2016-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Got two papers accepted by [ACL 2024](https://2024.aclweb.org/) :tada:
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
