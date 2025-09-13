@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Released our new [survey](https://aclanthology.org/2024.findings-acl.456/) on Speculative Decoding :book:
+Got two papers accepted by [ACL 2024](https://2024.aclweb.org/) :tada:

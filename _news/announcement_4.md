@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Released [Spec-Bench](https://sites.google.com/view/spec-bench/): a comprehensive benchmark for Speculative Decoding :pencil:
+Got four papers accepted by [EMNLP 2024](https://2024.emnlp.org/) :tada:

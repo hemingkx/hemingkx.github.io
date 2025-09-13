@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-01 07:59:00-0400
+date: 2025-01-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Got two papers accepted by [ACL 2024](https://2024.aclweb.org/) :tada:
+Organized a tutorial on [Speculative Decoding](https://speculative-decoding.github.io/) at COLING 2025 :hugs:
