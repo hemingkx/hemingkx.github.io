@@ -92,11 +92,25 @@ ninja.data = [{
           window.open("https://github.com/hemingkx", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Xia-Heming/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=6r2ESKkAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.semanticscholar.org/author/2093662286", "_blank");
         },
       },{
         id: 'social-x',
