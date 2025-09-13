@@ -1,14 +1,14 @@
 "ArXiv":
   url: https://arxiv.org/
-  color: "#996600"
+  color: "#f29105"
 
 "ACL":
   url: https://aclanthology.org/venues/acl/
-  color: "#003366"
+  color: "#0076df"
 
 "EMNLP":
   url: https://aclanthology.org/venues/emnlp/
-  color: "#003366"
+  color: "#00ab37"
 
 "NAACL":
   url: https://naacl.org/index.html
@@ -29,7 +29,7 @@
 
 "ICLR":
   url: https://iclr.cc/
-  color: "#cc9900"
+  color: "#f92080"
 
 "COLM":
   url: https://colmweb.org/
