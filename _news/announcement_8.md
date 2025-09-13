@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got three papers accepted by [EMNLP 2025](https://2025.emnlp.org/), congrats to all co-authors :tada:
+Got three papers accepted by [EMNLP 2025](https://2025.emnlp.org/) (2 Main+1 Findings) :tada:

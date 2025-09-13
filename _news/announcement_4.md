@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got four papers accepted by [EMNLP 2024](https://2024.emnlp.org/) :tada:
+Got four papers accepted by [EMNLP 2024](https://2024.emnlp.org/) (2 Main+2 Findings) :tada:
