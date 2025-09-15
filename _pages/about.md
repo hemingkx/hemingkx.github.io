@@ -25,7 +25,7 @@ I am Heming Xia (夏鹤明), a Ph.D. student in the [NLP Group](https://polyunlp
 
 My research focuses on efficient and effective NLP, with the goal of making LLMs faster, more scalable, and broadly applicable. Specifically, my work centers on the following directions:
 
-- **Speculative Decoding:** Exploring inference acceleration techniques that maintain output fidelity. This includes our pioneering work on Speculative Decoding [[EMNLP'23-findings](https://aclanthology.org/2023.findings-emnlp.257/), [ICLR'25](https://openreview.net/forum?id=EKJhH5D5wA)] and the first survey [[ACL'24-findings](https://aclanthology.org/2024.findings-acl.456/)] on this emerging paradigm.
+- **Speculative Decoding:** Exploring inference acceleration techniques that maintain output fidelity. This includes our pioneering work on Speculative Decoding [[EMNLP'23-findings](https://aclanthology.org/2023.findings-emnlp.257/), [ICLR'25](https://openreview.net/forum?id=EKJhH5D5wA)] and the first comprehensive survey [[ACL'24-findings](https://aclanthology.org/2024.findings-acl.456/)] on this paradigm.
 - **Efficient Reasoning:** Developing advanced algorithms to enhance the efficiency of reasoning models, spanning efficient training strategies, inference acceleration [[EMNLP'25](https://arxiv.org/abs/2502.12067)], and novel reasoning representations such as latent CoT [[arXiv'25](https://arxiv.org/abs/2505.16782)].
 - **Applications (Efficiency + X):** I am interested in how efficiency-oriented techniques can benefit broader applications, with recent focus on tool-augmented agents and multimodal models [[EMNLP'25](https://arxiv.org/abs/2508.16201)].
 
