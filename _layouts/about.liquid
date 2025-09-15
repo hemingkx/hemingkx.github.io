@@ -59,7 +59,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        Selected Publications <a href="https://scholar.google.com/citations?user=6r2ESKkAAAAJ">[full list]</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       * denotes Equal Contribution. † denotes Corresponding Author.
       {% include selected_papers.liquid %}
