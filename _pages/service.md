@@ -11,7 +11,7 @@ nav_order: 4
 ## Academic Services
 
 **Area Chair/Action Editor:**  
-ACL, EMNLP, ACL ARR  
+ICLR, ACL, EMNLP, ACL ARR  
 
 **Reviewer/Program Committee Member:**  
 ICLR, ICML, NeurIPS, ACL, EMNLP ([24' Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540):star2:), NAACL, AACL, ACM MM, TASLP, TWEB  
