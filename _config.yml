@@ -294,6 +294,8 @@ filtered_bibtex_keywords:
     arxiv,
     award,
     award_name,
+    award2,
+    award_name2,
     bibtex_show,
     blog,
     code,

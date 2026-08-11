@@ -756,7 +756,8 @@ footer.sticky-bottom {
           }
         }
 
-        .award {
+        .award,
+        .award2 {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
@@ -808,7 +809,8 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
-        a.award.btn {
+        a.award.btn,
+        a.award2.btn {
           border-color: var(--global-highlight-color);
         }
       }
@@ -868,10 +870,12 @@ footer.sticky-bottom {
         border-color: var(--global-text-color);
       }
     }
-    div.award.hidden {
+    div.award.hidden,
+    div.award2.hidden {
       border: dashed 1px var(--global-bg-color);
     }
-    div.award.hidden.open {
+    div.award.hidden.open,
+    div.award2.hidden.open {
       border-color: var(--global-highlight-color);
     }
   }
