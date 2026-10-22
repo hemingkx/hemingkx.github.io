@@ -23,8 +23,10 @@ I am Heming Xia (夏鹤明), a third-year Ph.D. student in the [NLP Group](https
 
 # Research
 
-My research focuses on efficient NLP and LLM agents, with an emphasis on the following directions:
+My research focuses on efficient and effective NLP, with the goal of making LLMs faster, more scalable, and broadly applicable. Specifically, my work centers on the following directions:
 
-- **LLM Efficiency:** Exploring inference acceleration techniques that maintain output fidelity. This includes our pioneering work on speculative decoding [[EMNLP’23-findings](https://aclanthology.org/2023.findings-emnlp.257/), [ICLR’25](https://openreview.net/forum?id=EKJhH5D5wA)], the widely used [Spec-Bench](https://sites.google.com/view/spec-bench) benchmark, and the first comprehensive survey [[ACL’24-findings](https://aclanthology.org/2024.findings-acl.456/)] of speculative decoding.
-- **Agentic Efficiency:** Developing advanced algorithms to enhance the efficiency of LLM agents, spanning efficient reasoning [[EMNLP’25](https://aclanthology.org/2025.emnlp-main.165/), [ACL’26](https://arxiv.org/abs/2510.10528)], tool calling [[EMNLP’26](https://arxiv.org/abs/2604.13519)], and the design of fast agentic systems.
-- **LLM Agent Systems:** I am interested in advancing the broader capabilities of LLM agents, particularly in reasoning, memory, recursive self-improvement (RSI), and other core components of the agentic loop.
+- **Speculative Decoding:** Exploring inference acceleration techniques that maintain output fidelity. This includes our pioneering work on Speculative Decoding [[EMNLP'23-findings](https://aclanthology.org/2023.findings-emnlp.257/), [ICLR'25](https://openreview.net/forum?id=EKJhH5D5wA)], the widely used benchmark [Spec-Bench](https://sites.google.com/view/spec-bench), and the first comprehensive survey [[ACL'24-findings](https://aclanthology.org/2024.findings-acl.456/)] in this paradigm.
+- **Agentic Efficiency:** Developing advanced algorithms to enhance the efficiency of LLM agents, spanning training acceleration strategies, efficient reasoning [[EMNLP'25](https://aclanthology.org/2025.emnlp-main.165/), [ACL'26](https://arxiv.org/abs/2510.10528)], fast tool calling [[EMNLP’26](https://arxiv.org/abs/2604.13519)], and the design of efficient agentic systems.
+- **Applications (Efficiency + X):** I am interested in how efficiency-oriented techniques can benefit broader applications, with a recent focus on multimodal models [[EMNLP'25](https://aclanthology.org/2025.emnlp-main.366/)].
+
+In addition, I work on advancing the broader capabilities of LLM agents, particularly in reasoning, tool calling [e.g., [EMNLP'24](https://aclanthology.org/2024.emnlp-main.856/), [ACL'25-findings](https://aclanthology.org/2025.findings-acl.1107/)], memory, recursive self-improvement (RSI), and other core components of the agentic loop.
